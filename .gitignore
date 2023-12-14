@@ -4,3 +4,4 @@ environment
 environment.prod.js
 package.json
 package-lock.json
+.vscode
