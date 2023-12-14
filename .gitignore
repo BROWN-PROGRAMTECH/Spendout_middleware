@@ -2,3 +2,5 @@
 node_modules
 environment
 environment.prod.js
+package.json
+package-lock.json
